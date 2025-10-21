@@ -1,0 +1,17 @@
+/* For smooth scrolling*/
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 60px;
+}
+
+
+/* General body styles*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    background-color: #C5C7BC;
+    margin: 0;
+    padding: 0.5rem;
+    line-height: 1.5;
+    
+}
