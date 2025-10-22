@@ -174,11 +174,11 @@ footer {
 @media (max-width:600px) {
     nav ul {
         flex-direction: column;
-        gap: 10px;
+        gap: 5px;
     }
 
     section {
-        scroll-margin-top: 25px ;
+        scroll-margin-top: 20px ;
     }
 
     .projects-container {
