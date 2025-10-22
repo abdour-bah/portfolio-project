@@ -1,7 +1,7 @@
 /* For smooth scrolling*/
 html {
     scroll-behavior: smooth;
-    scroll-padding-top: 80px;
+    scroll-padding-top: 100px;
 }
 
 
@@ -178,9 +178,9 @@ footer {
         
     }
 
-    section {
-        scroll-margin-top: 5px ;
-    }
+    /*section {
+        scroll-margin-top: px ;
+    }*/
 
     .projects-container {
         flex-direction: column;
