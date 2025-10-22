@@ -178,7 +178,7 @@ footer {
     }
 
     section {
-        scroll-margin-top: 80px ;
+        scroll-padding-top: 30px ;
     }
 
     .projects-container {
