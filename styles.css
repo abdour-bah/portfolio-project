@@ -26,3 +26,41 @@ header {
     font-weight: bold;
     font-size: 2rem;
 }
+
+/* Navigation bars using flexbox properties*/
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:1000;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    background-color: #334443;
+    padding: 15px;
+    margin: 0;
+}
+
+nav li {
+    display: block;
+    margin: 0 5px;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+nav a:hover {
+    color: #B6AE9F;
+}
+
+main {
+    padding-top: 50px;
+
+}
